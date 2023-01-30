@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/bin/Debug/net6.0/hazir metotlar datetime math
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/bin/Debug/net6.0/hazir metotlar datetime math.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/bin/Debug/net6.0/hazir metotlar datetime math.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/bin/Debug/net6.0/hazir metotlar datetime math.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/bin/Debug/net6.0/hazir metotlar datetime math.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/obj/Debug/net6.0/hazir metotlar datetime math.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/obj/Debug/net6.0/hazir metotlar datetime math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/obj/Debug/net6.0/hazir metotlar datetime math.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/obj/Debug/net6.0/hazir metotlar datetime math.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/obj/Debug/net6.0/hazir metotlar datetime math.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/obj/Debug/net6.0/hazir metotlar datetime math.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/obj/Debug/net6.0/refint/hazir metotlar datetime math.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/obj/Debug/net6.0/hazir metotlar datetime math.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/obj/Debug/net6.0/hazir metotlar datetime math.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar datetime math/obj/Debug/net6.0/ref/hazir metotlar datetime math.dll
